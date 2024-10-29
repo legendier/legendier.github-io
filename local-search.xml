@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>Hello</title>
+    <link href="/2024/10/29/hello/"/>
+    <url>/2024/10/29/hello/</url>
+    
+    <content type="html"><![CDATA[<span id="more"></span><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs python">Hello World!<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Hello</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hexo运行命令</title>
     <link href="/2024/10/28/Hexo/"/>
     <url>/2024/10/28/Hexo/</url>
